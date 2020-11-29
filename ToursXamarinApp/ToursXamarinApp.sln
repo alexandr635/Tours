@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToursXamarinApp.Android", "ToursXamarinApp\ToursXamarinApp.Android\ToursXamarinApp.Android.csproj", "{F820A9FD-C00B-47E6-AA9E-2BA8A111C340}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToursXamarinApp", "ToursXamarinApp\ToursXamarinApp\ToursXamarinApp.csproj", "{44CEFF9F-F5D7-47CE-BA65-10362C8A0453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{D8CE3EE4-362F-4618-98F0-89477B3A74CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F820A9FD-C00B-47E6-AA9E-2BA8A111C340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F820A9FD-C00B-47E6-AA9E-2BA8A111C340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F820A9FD-C00B-47E6-AA9E-2BA8A111C340}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F820A9FD-C00B-47E6-AA9E-2BA8A111C340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F820A9FD-C00B-47E6-AA9E-2BA8A111C340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F820A9FD-C00B-47E6-AA9E-2BA8A111C340}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{44CEFF9F-F5D7-47CE-BA65-10362C8A0453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CEFF9F-F5D7-47CE-BA65-10362C8A0453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CEFF9F-F5D7-47CE-BA65-10362C8A0453}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{44CEFF9F-F5D7-47CE-BA65-10362C8A0453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CEFF9F-F5D7-47CE-BA65-10362C8A0453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CEFF9F-F5D7-47CE-BA65-10362C8A0453}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D8CE3EE4-362F-4618-98F0-89477B3A74CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CE3EE4-362F-4618-98F0-89477B3A74CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CE3EE4-362F-4618-98F0-89477B3A74CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CE3EE4-362F-4618-98F0-89477B3A74CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F4EA4A9-CC08-4C43-9514-A70545CE2B2B}
+	EndGlobalSection
+EndGlobal
